@@ -5,7 +5,7 @@
 This library enables the functionality for clock reading, clock setting, alarms and timers of I2C RTCs.
 
 
-| Features | DS1037 | DS3231 | PCF8563 | PCF8623 | MCP7940 |
+| Features | DS1307 | DS3231 | PCF8563 | PCF8623 | MCP7940 |
 |:--------:|:------:|:------:|:-------:|:-------:|:-------:|
 |  Address |  0x68  |  0x68  |   0x51  |   0x68  |  0x6F   |
 | 12 hours |  Yes   |  Yes   |   Yes   |   Yes   |   Yes   |
